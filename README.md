@@ -27,7 +27,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;About Me
 
 <div align="center">
-<i>🚀 MERN Stack Developer with 2+ years of experience building scalable, responsive web applications. Passionate about clean code, pixel-perfect UI, and cloud-based solutions. Currently crafting smart products at SmartAI Soft, Lahore.</i>
+<i> MERN Stack Developer with 2+ years of experience building scalable, responsive web applications. Passionate about clean code, pixel-perfect UI, and cloud-based solutions. Currently crafting smart products at SmartAI Soft, Lahore.</i>
 </div>
 
 <br/>
