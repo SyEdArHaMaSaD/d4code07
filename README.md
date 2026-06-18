@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:667eea,50:764ba2,100:f093fb&height=220&section=header&text=Syed%20Arham%20Asad&fontSize=55&fontColor=ffffff&fontAlignY=45&desc=⚡%20Full%20Stack%20Engineer%20⚡&descAlignY=68&descSize=22&animation=blinking&stroke=ffffff&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Arham%20Here&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer&descAlignY=60&descSize=20&animation=fadeIn" width="100%"/>
 
 </div>
 
-<br/>
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=650&lines=🚀+MERN+Stack+Developer;⚡+Full+Stack+Engineer;🌐+Next.js+%2B+React+Specialist;☁️+AWS+%7C+PostgreSQL+%7C+MongoDB;📱+Ionic+Mobile+Developer;💳+Stripe+Payment+Integration)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=700&lines=Syed+Arham+Asad;Full+Stack+Engineer+⚡;MERN+Stack+Developer;Next.js+%2B+React+Specialist+🌐;AWS+%7C+PostgreSQL+%7C+MongoDB+☁️)](https://git.io/typing-svg)
 
 </div>
 
@@ -34,43 +32,17 @@
 
 <br/>
 
-<table width="100%">
+<table align="center">
 <tr>
-<td width="50%" valign="top">
-
-**`const`** arham = {
-
-&nbsp;&nbsp;🧑‍💻 **Role** &nbsp;&nbsp;&nbsp;&nbsp;`Full Stack Engineer @ SmartAI Soft`
-
-&nbsp;&nbsp;🎓 **Edu** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`BS CS — Lahore Garrison University`
-
-&nbsp;&nbsp;📍 **Location** &nbsp;`Lahore, Pakistan`
-
-&nbsp;&nbsp;⚡ **Frontend** `React · Next.js · Redux · Tailwind`
-
-&nbsp;&nbsp;🔧 **Backend** &nbsp;`Node.js · Express.js · REST APIs`
-
-&nbsp;&nbsp;🗄️ **Database** `MongoDB · PostgreSQL · MySQL`
-
-&nbsp;&nbsp;☁️ **Cloud** &nbsp;&nbsp;&nbsp;&nbsp;`AWS · Hostinger`
-
-&nbsp;&nbsp;📱 **Mobile** &nbsp;&nbsp;`Ionic`
-
-&nbsp;&nbsp;💳 **Payments** `Stripe`
-
-&nbsp;&nbsp;🎯 **Focus** &nbsp;&nbsp;&nbsp;&nbsp;`Scalable cloud-based apps 🚀`
-
-**`}`**
-
+<td align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
 </td>
-<td width="25%" align="center" valign="middle">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" style="border-radius:12px"/>
-</td>
-<td width="25%" align="center" valign="middle">
-<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="200" style="border-radius:12px"/>
+
+<td align="center">
+<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="250"/>
 </td>
 </tr>
-</table>
+</table>>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -120,21 +92,6 @@
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"> &nbsp;GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SyEdArHaM22&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=default&bg_color=ffffff&title_color=7C3AED&icon_color=A855F7&text_color=374151&border_radius=12"/>
-<img height="180em" src="https://streak-stats.demolab.com/?user=SyEdArHaM22&hide_border=true&background=ffffff&ring=A855F7&fire=f093fb&currStreakLabel=7C3AED&sideLabels=374151&dates=9CA3AF&border_radius=12&theme=default"/>
-
-<br/><br/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyEdArHaM22&hide_border=true&include_all_commits=true&count_private=true&layout=donut&bg_color=ffffff&title_color=7C3AED&text_color=374151&border_radius=12&theme=default"/>
 
 </div>
 
