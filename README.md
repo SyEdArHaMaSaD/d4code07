@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Syed%20Arham%20Asad&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer&descAlignY=60&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:667eea,50:764ba2,100:f093fb&height=220&section=header&text=Syed%20Arham%20Asad&fontSize=55&fontColor=ffffff&fontAlignY=45&desc=⚡%20Full%20Stack%20Engineer%20⚡&descAlignY=68&descSize=22&animation=blinking&stroke=ffffff&strokeWidth=2" width="100%"/>
 
 </div>
+
+<br/>
 
 <div align="center">
 
@@ -26,38 +28,46 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;About Me
 
+<div align="center">
+<i>🚀 MERN Stack Developer with 2+ years of experience building scalable, responsive web applications. Passionate about clean code, pixel-perfect UI, and cloud-based solutions. Currently crafting smart products at SmartAI Soft, Lahore.</i>
+</div>
+
+<br/>
+
 <table width="100%">
 <tr>
-<td width="55%" valign="top">
+<td width="50%" valign="top">
 
 **`const`** arham = {
-> 🧑‍💻 &nbsp;**Role** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Full Stack Engineer @ SmartAI Soft`
->
-> 🎓 &nbsp;**Education** &nbsp;`BS CS — Lahore Garrison University`
->
-> 📍 &nbsp;**Location** &nbsp;&nbsp;`Lahore, Pakistan`
->
-> ⚡ &nbsp;**Frontend** &nbsp;&nbsp;`React · Next.js · Redux · Tailwind`
->
-> 🔧 &nbsp;**Backend** &nbsp;&nbsp;&nbsp;`Node.js · Express.js · REST APIs`
->
-> 🗄️ &nbsp;**Database** &nbsp;`MongoDB · PostgreSQL · MySQL`
->
-> ☁️ &nbsp;**Cloud** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`AWS · Hostinger`
->
-> 📱 &nbsp;**Mobile** &nbsp;&nbsp;&nbsp;&nbsp;`Ionic`
->
-> 💳 &nbsp;**Payments** &nbsp;`Stripe`
->
-> 🎯 &nbsp;**Focus** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Scalable cloud-based apps 🚀`
+
+&nbsp;&nbsp;🧑‍💻 **Role** &nbsp;&nbsp;&nbsp;&nbsp;`Full Stack Engineer @ SmartAI Soft`
+
+&nbsp;&nbsp;🎓 **Edu** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`BS CS — Lahore Garrison University`
+
+&nbsp;&nbsp;📍 **Location** &nbsp;`Lahore, Pakistan`
+
+&nbsp;&nbsp;⚡ **Frontend** `React · Next.js · Redux · Tailwind`
+
+&nbsp;&nbsp;🔧 **Backend** &nbsp;`Node.js · Express.js · REST APIs`
+
+&nbsp;&nbsp;🗄️ **Database** `MongoDB · PostgreSQL · MySQL`
+
+&nbsp;&nbsp;☁️ **Cloud** &nbsp;&nbsp;&nbsp;&nbsp;`AWS · Hostinger`
+
+&nbsp;&nbsp;📱 **Mobile** &nbsp;&nbsp;`Ionic`
+
+&nbsp;&nbsp;💳 **Payments** `Stripe`
+
+&nbsp;&nbsp;🎯 **Focus** &nbsp;&nbsp;&nbsp;&nbsp;`Scalable cloud-based apps 🚀`
 
 **`}`**
 
 </td>
-<td width="45%" align="center" valign="top">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" style="border-radius:16px"/>
-
+<td width="25%" align="center" valign="middle">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" style="border-radius:12px"/>
+</td>
+<td width="25%" align="center" valign="middle">
+<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="200" style="border-radius:12px"/>
 </td>
 </tr>
 </table>
@@ -119,12 +129,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SyEdArHaM22&theme=calm&hide_border=true&include_all_commits=true&count_private=true&bg_color=fefefe&title_color=7C3AED&icon_color=A855F7&text_color=374151&border_radius=12" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SyEdArHaM22&theme=calm&hide_border=true&background=fefefe&ring=A855F7&fire=f093fb&currStreakLabel=7C3AED&sideLabels=374151&dates=9CA3AF&border_radius=12" width="49%"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SyEdArHaM22&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=default&bg_color=ffffff&title_color=7C3AED&icon_color=A855F7&text_color=374151&border_radius=12"/>
+<img height="180em" src="https://streak-stats.demolab.com/?user=SyEdArHaM22&hide_border=true&background=ffffff&ring=A855F7&fire=f093fb&currStreakLabel=7C3AED&sideLabels=374151&dates=9CA3AF&border_radius=12&theme=default"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyEdArHaM22&theme=calm&hide_border=true&include_all_commits=true&count_private=true&layout=donut&bg_color=fefefe&title_color=7C3AED&text_color=374151&border_radius=12" width="42%"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyEdArHaM22&hide_border=true&include_all_commits=true&count_private=true&layout=donut&bg_color=ffffff&title_color=7C3AED&text_color=374151&border_radius=12&theme=default"/>
 
 </div>
 
